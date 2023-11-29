@@ -1,0 +1,23 @@
+body
+{
+    background-color: aqua;
+}
+.score
+{
+    font-size: medium;
+    margin: 35px;
+
+
+}
+.timer
+{
+    font-size: medium;
+    float: right;
+    margin: right;
+
+}
+.Sketch_drawn
+{
+   text-decoration-color: blue;
+   
+}
